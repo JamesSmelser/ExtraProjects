@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\bin\Debug\ProjectRandomClass.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\bin\Debug\ProjectRandomClass.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\bin\Debug\ProjectRandomClass.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\obj\Debug\ProjectRandomClass.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\obj\Debug\ProjectRandomClass.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\obj\Debug\ProjectRandomClass.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectRandomClass\obj\Debug\ProjectRandomClass.pdb

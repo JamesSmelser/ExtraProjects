@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\bin\Debug\ProjectInheritance.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\bin\Debug\ProjectInheritance.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\bin\Debug\ProjectInheritance.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\obj\Debug\ProjectInheritance.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\obj\Debug\ProjectInheritance.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\obj\Debug\ProjectInheritance.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectInheritance\obj\Debug\ProjectInheritance.pdb

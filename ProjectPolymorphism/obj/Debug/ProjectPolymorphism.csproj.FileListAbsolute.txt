@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\bin\Debug\ProjectPolymorphism.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\bin\Debug\ProjectPolymorphism.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\bin\Debug\ProjectPolymorphism.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\obj\Debug\ProjectPolymorphism.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\obj\Debug\ProjectPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\obj\Debug\ProjectPolymorphism.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectPolymorphism\obj\Debug\ProjectPolymorphism.pdb

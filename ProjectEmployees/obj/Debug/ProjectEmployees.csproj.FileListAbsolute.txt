@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\bin\Debug\ProjectEmployees.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\bin\Debug\ProjectEmployees.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\bin\Debug\ProjectEmployees.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\obj\Debug\ProjectEmployees.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\obj\Debug\ProjectEmployees.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\obj\Debug\ProjectEmployees.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectEmployees\obj\Debug\ProjectEmployees.pdb

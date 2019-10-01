@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe.config
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.exe
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\bin\Debug\ProjectTicTacToe.pdb
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.exe
+C:\Users\smels\MSSA\Extra Projects\ProjectTicTacToe\obj\Debug\ProjectTicTacToe.pdb

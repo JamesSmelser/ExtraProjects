@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\bin\Debug\ReadFromATextFile.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\bin\Debug\ReadFromATextFile.exe
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\bin\Debug\ReadFromATextFile.pdb
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\obj\Debug\ReadFromATextFile.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\obj\Debug\ReadFromATextFile.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\obj\Debug\ReadFromATextFile.exe
+C:\Users\smels\MSSA\ExtraProjects\ReadFromATextFile\obj\Debug\ReadFromATextFile.pdb

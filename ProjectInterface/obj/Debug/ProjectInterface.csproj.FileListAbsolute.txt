@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\bin\Debug\ProjectInterface.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\bin\Debug\ProjectInterface.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\bin\Debug\ProjectInterface.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\obj\Debug\ProjectInterface.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\obj\Debug\ProjectInterface.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\obj\Debug\ProjectInterface.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectInterface\obj\Debug\ProjectInterface.pdb

@@ -1,0 +1,15 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\bin\Debug\ProjectWPF5.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\bin\Debug\ProjectWPF5.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\bin\Debug\ProjectWPF5.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\MainWindow.g.cs
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\App.g.cs
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5_MarkupCompile.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5_MarkupCompile.lref
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\MainWindow.baml
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.g.resources
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.Properties.Resources.resources
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.csproj.GenerateResource.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF5\obj\Debug\ProjectWPF5.pdb

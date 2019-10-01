@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\bin\Debug\ProjectRegularExpressions.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\bin\Debug\ProjectRegularExpressions.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\bin\Debug\ProjectRegularExpressions.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\obj\Debug\ProjectRegularExpressions.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\obj\Debug\ProjectRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\obj\Debug\ProjectRegularExpressions.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectRegularExpressions\obj\Debug\ProjectRegularExpressions.pdb

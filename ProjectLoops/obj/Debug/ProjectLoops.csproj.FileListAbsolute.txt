@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\bin\Debug\ProjectLoops.exe.config
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\bin\Debug\ProjectLoops.exe
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\bin\Debug\ProjectLoops.pdb
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\obj\Debug\ProjectLoops.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\obj\Debug\ProjectLoops.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\obj\Debug\ProjectLoops.exe
+C:\Users\smels\MSSA\Extra Projects\ProjectLoops\obj\Debug\ProjectLoops.pdb

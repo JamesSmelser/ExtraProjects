@@ -1,0 +1,15 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\bin\Debug\ProjectWPF9.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\bin\Debug\ProjectWPF9.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\bin\Debug\ProjectWPF9.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\MainWindow.g.cs
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\App.g.cs
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9_MarkupCompile.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9_MarkupCompile.lref
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\MainWindow.baml
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.g.resources
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.Properties.Resources.resources
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.csproj.GenerateResource.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectWPF9\obj\Debug\ProjectWPF9.pdb

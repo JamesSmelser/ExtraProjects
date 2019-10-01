@@ -1,0 +1,35 @@
+﻿CHARACTER ESCAPES
+\t    - Matches a tab
+\n    - Matches a new line
+
+CHARACTER CLASSES
+.     - Wildcard: Matches any single character except \n
+\d    - Matches any decimal digit (0-9)
+\D    - Matches any character other than a decimal digit (0-9)
+\w    - Word Character (a-z, A-Z, 0-9, _)
+\W    - Not a Word Character
+\s    - Matches any white-space character (space, tab, newline)
+\S    - Matches any nonwhite-space character (space, tab, newline)
+[character_group]  - Matches any single character in character_group, by default the match is case-sensitive
+[^character_group]  - Negation: Matches any single character that is not in the character_group
+
+ANCHORS
+^     - The match must start at the beginning of the string or line
+$     - The match must occur at the end of the string or \n at the end of the line or string
+\A    - The match must occur at the start of the string
+\Z    - The match must occur at the end of the string or before \n at the end of the string
+\b    - Word Boundary
+\B    - No Word Boundary
+
+ALTERNATION CONSTRUCTS
+|     - Either Or
+
+GROUPING CONSTRUCTS
+( )   - Group
+
+QUANTIFIERS
+*     - Matches the previous element zero or more times
++     - Matches the previous element one or more times
+?     - Matches the previous element zero or one time
+{n}   - Matches the previous element exactly n times
+{n,m} - Matches the previous element at least n times, but no more than m times

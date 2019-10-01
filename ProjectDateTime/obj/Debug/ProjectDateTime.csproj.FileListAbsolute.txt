@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\bin\Debug\ProjectDateTime.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\bin\Debug\ProjectDateTime.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\bin\Debug\ProjectDateTime.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\obj\Debug\ProjectDateTime.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\obj\Debug\ProjectDateTime.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\obj\Debug\ProjectDateTime.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectDateTime\obj\Debug\ProjectDateTime.pdb

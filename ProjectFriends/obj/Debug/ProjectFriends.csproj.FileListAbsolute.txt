@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\bin\Debug\ConsoleApp1.exe.config
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\bin\Debug\ConsoleApp1.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\bin\Debug\ConsoleApp1.pdb
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\obj\Debug\ProjectFriends.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\obj\Debug\ProjectFriends.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\obj\Debug\ConsoleApp1.exe
+C:\Users\smels\MSSA\ExtraProjects\ProjectFriends\obj\Debug\ConsoleApp1.pdb

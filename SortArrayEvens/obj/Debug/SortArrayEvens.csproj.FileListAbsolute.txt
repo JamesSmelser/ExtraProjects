@@ -1,0 +1,7 @@
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\bin\Debug\SortArrayEvens.exe.config
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\bin\Debug\SortArrayEvens.exe
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\bin\Debug\SortArrayEvens.pdb
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\obj\Debug\SortArrayEvens.csprojAssemblyReference.cache
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\obj\Debug\SortArrayEvens.csproj.CoreCompileInputs.cache
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\obj\Debug\SortArrayEvens.exe
+C:\Users\smels\MSSA\ExtraProjects\SortArrayEvens\obj\Debug\SortArrayEvens.pdb
